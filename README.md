@@ -1,6 +1,6 @@
 ## Hi there, I'm Charlie 👋
 
-I'm Charlotte (but you can call me Charlie). I'm a designer and developer. My work spans across disciplines, including front‑end web development, concept art/illustration, 3D modeling, and data visualization. I was raised in [Santa Fe, New Mexico](http://sinclarius.com/sf/), and studied in Japan and Switzerland. My background is in architecture, communication design, and environmental research.
+I'm Charlotte (but you can call me Charlie). I'm a designer and developer. My work spans across disciplines, including front‑end web development, architectural design, 3D modeling, and data visualization. I was raised in [Santa Fe, New Mexico](http://sinclarius.com/sf/), and studied in Japan and Switzerland. My background is in architecture, communication design, and environmental research.
 
 I help to solve complex problems through design. I currently work in the design/construction industry. Until recently, I collaborated with a team at RS21 on a combination of **information design**, **user experience research**, and **process/service optimization** projects.
 
