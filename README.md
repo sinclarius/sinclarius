@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Charlie 👋
+
+[![sinclarius's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinclarius&hide=commits,issues,contribs&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **sinclarius/sinclarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
