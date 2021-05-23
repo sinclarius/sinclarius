@@ -1,3 +1,5 @@
+### Hi there, I'm Charlie 👋
+
 I'm Charlotte (but you can call me Charlie). I'm an interdisciplinary designer and developer. 
 
 In my spare time, I tinker with [creative coding](https://codepen.io/sinclarius/), [digital fabrication](https://www.behance.net/gallery/34916753/Waves-I-(2015)), and hand embroidery. I enjoy sketching, traveling, taking photos, and [contributing to OpenStreetMap](https://www.openstreetmap.org/user/sinclarius).
