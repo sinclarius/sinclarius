@@ -4,8 +4,6 @@ I'm Charlotte (but you can call me Charlie). I'm an interdisciplinary designer a
 
 In my spare time, I tinker with [creative coding](https://codepen.io/sinclarius/), [digital fabrication](https://www.behance.net/gallery/34916753/Waves-I-(2015)), and hand embroidery. I enjoy sketching, traveling, taking photos, and [contributing to OpenStreetMap](https://www.openstreetmap.org/user/sinclarius).
 
-[![sinclarius's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinclarius&include_all_commits=true&count_private=true&hide=issues,contribs&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
-
 ### What I do
 - **Information Design**
   Research-based strategy, design and development of websites, apps, maps, print materials, and more.
