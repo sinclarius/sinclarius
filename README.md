@@ -17,9 +17,6 @@ In my spare time, I tinker with [creative coding](https://codepen.io/sinclarius/
 ### Skills
 Visual communication and 2D/3D design, including: front-end development (HTML, CSS, JavaScript, d3, and Python), GIS/cartography, UX research/strategy, data viz, editorial/print design, 3D modeling, typography, and photography.
 
-### Where else to find me
-Most of my code belongs to my employers, but I have some snippets and experiments up on [Observable](https://observablehq.com/@sinclarius), [CodePen](https://codepen.io/sinclarius/) and here on GitHub. Select work is available on [Bēhance](https://www.behance.net/sinclarius), with additional portfolio samples available upon request.
-
 <!--
 **sinclarius/sinclarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
